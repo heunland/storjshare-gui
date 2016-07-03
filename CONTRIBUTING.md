@@ -1,7 +1,7 @@
 Contributing
 ============
 
-Greetings, hacker! Thanks for you interest in contributing to DriveShare!
+Greetings, hacker! Thanks for you interest in contributing to StorjShare!
 Before you get started, we have a few guidelines relating to style and coding
 conventions.
 
